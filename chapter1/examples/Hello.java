@@ -1,4 +1,4 @@
-package examples;
+package chapter1.examples;
 
 public class Hello {
 	public static void main(String[] args) {
